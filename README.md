@@ -15,7 +15,7 @@ This is a solution to the Recipes Page project from The Odin Project's Foundatio
 
 ### Screenshot
 
-![]()
+![screenshot](https://github.com/PierreLogs/RecipesPage-OdinProject/blob/main/sources/screenshot.png)
 
 ### Links
 
