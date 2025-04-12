@@ -19,8 +19,8 @@ This is a solution to the Recipes Page project from The Odin Project's Foundatio
 
 ### Links
 
-- Solution URL: [Recipes Page solution repo]()
-- Live Site URL: [Recipes Page solution page]()
+- Solution URL: [Recipes Page solution repo](https://github.com/PierreLogs/RecipesPage-OdinProject)
+- Live Site URL: [Recipes Page solution page](https://pierrelogs.github.io/RecipesPage-OdinProject/)
 
 ## My process
 
